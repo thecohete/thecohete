@@ -1,4 +1,6 @@
-## Hi there 👋
+## hey i'm josh. i use lowercase letters for my name.
+pronouns: he/him
+🔭 trying to learn enough to import wordpress into ghost
 
 <!--
 **thecohete/thecohete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
